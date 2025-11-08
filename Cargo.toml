@@ -1,0 +1,19 @@
+[package]
+name = "kiln"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A from-scratch JavaScript-subset engine: parser, formatter, bytecode VM, generational GC, inline caches and an x86-64 baseline JIT"
+
+[dependencies]
+libc = "0.2"
+
+[dev-dependencies]
+proptest = "1"
+
+[profile.release]
+debug = 1
+
+[[bench]]
+name = "engine"
+harness = false
