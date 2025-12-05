@@ -1,0 +1,5 @@
+true Class constructor A cannot be invoked without 'new'
+TypeError Assignment to constant variable.
+ReferenceError undefinedVar is not defined
+Cannot read properties of undefined (reading 'foo')
+true

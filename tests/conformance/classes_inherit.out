@@ -1,0 +1,3 @@
+Rex jr makes a sound (woof) true true true
+Puppy { name: 'Rex jr', young: true }
+[class Dog extends Animal] [class Animal]
