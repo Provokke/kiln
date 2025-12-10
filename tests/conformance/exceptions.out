@@ -1,0 +1,6 @@
+0|f0|1|f1|2|f2|too big: 3|f3|too big: 4|f4
+inner finally
+caught 1
+try
+42
+RangeError r true RangeError: r

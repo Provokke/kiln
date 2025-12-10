@@ -1,0 +1,6 @@
+3 NaN 3 ab
+25 3628800 sq f add 
+hoisted!
+{ sum: 5 } 8 [Function: add] [Function: sq] [class Q]
+1000
+[ 1, 2, 3 ] 9 [ 0, 1, 2, 3 ]
