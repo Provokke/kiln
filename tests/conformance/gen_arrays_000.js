@@ -1,0 +1,10 @@
+const xs = [37, 37, 43];
+console.log(Math.max(...xs));
+console.log(xs.slice().sort());
+console.log(xs.includes(7));
+console.log(xs.slice(1, -1));
+console.log(xs.map(x => x * 2));
+console.log(xs.map(x => [x, x % 3]));
+console.log(xs.slice().sort((a, b) => a - b));
+console.log(JSON.stringify(xs));
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
