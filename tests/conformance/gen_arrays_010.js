@@ -1,0 +1,10 @@
+const xs = [22, -11, 20, 20, 47];
+console.log(xs.slice().sort((a, b) => a - b));
+console.log(xs.indexOf(xs[2]));
+console.log(xs.map(x => [x, x % 3]));
+console.log(Math.max(...xs));
+console.log(xs.concat([1, 2]).length);
+console.log(xs.some(x => x < 0));
+console.log(xs.find(x => x > 10));
+console.log(xs.reduce((a, b) => a + b, 0));
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
