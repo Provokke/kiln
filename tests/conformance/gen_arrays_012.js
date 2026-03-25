@@ -1,0 +1,10 @@
+const xs = [19, -2, 36];
+console.log(xs.reduce((a, b) => a + b, 0));
+console.log(xs.slice().sort());
+console.log(xs.every(x => x > -50));
+console.log(xs.join(':'));
+console.log([...xs, ...xs].length);
+console.log(xs.filter(x => x % 2 === 0));
+console.log(xs.find(x => x > 10));
+console.log(xs.map(x => x * 2));
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
