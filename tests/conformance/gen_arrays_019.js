@@ -1,0 +1,10 @@
+const xs = [9, 28, 46, 8, 31];
+console.log(JSON.stringify(xs));
+console.log(xs.indexOf(xs[2]));
+console.log(xs.reduce((a, b) => a + b, 0));
+console.log(Math.max(...xs));
+console.log(xs.slice(1, -1));
+console.log(xs.slice().sort((a, b) => a - b));
+console.log(xs.every(x => x > -50));
+console.log(xs.concat([1, 2]).length);
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
