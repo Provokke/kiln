@@ -1,0 +1,10 @@
+const xs = [10, 5, 31, 32];
+console.log(xs.every(x => x > -50));
+console.log(xs.findIndex(x => x > 10));
+console.log(xs.slice().sort());
+console.log(xs.map((x, i) => x * i).filter(x => x > 0));
+console.log(xs.filter(x => x % 2 === 0));
+console.log(xs.some(x => x < 0));
+console.log([...xs, ...xs].length);
+console.log(xs.includes(7));
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
