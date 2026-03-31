@@ -1,0 +1,10 @@
+const xs = [7, 15, 15, -7, 21, 49, -16, 45];
+console.log(xs.slice().sort());
+console.log(JSON.stringify(xs));
+console.log(xs.findIndex(x => x > 10));
+console.log(xs.slice().sort((a, b) => a - b));
+console.log(xs.reduce((a, b) => a + b, 0));
+console.log(xs.join(':'));
+console.log(xs.some(x => x < 0));
+console.log([...xs, ...xs].length);
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
