@@ -1,0 +1,10 @@
+const xs = [39, 47, -11];
+console.log(xs.slice().sort((a, b) => a - b));
+console.log(Math.max(...xs));
+console.log(JSON.stringify(xs));
+console.log(xs.every(x => x > -50));
+console.log([...xs, ...xs].length);
+console.log(xs.includes(7));
+console.log(xs.find(x => x > 10));
+console.log(xs.map((x, i) => x * i).filter(x => x > 0));
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
