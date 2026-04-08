@@ -1,0 +1,10 @@
+const xs = [14, 37, 18, -18];
+console.log(xs.includes(7));
+console.log(xs.map(x => x * 2));
+console.log(xs.filter(x => x % 2 === 0));
+console.log(xs.slice().sort());
+console.log(xs.map((x, i) => x * i).filter(x => x > 0));
+console.log(xs.some(x => x < 0));
+console.log(JSON.stringify(xs));
+console.log([...xs, ...xs].length);
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
