@@ -1,0 +1,10 @@
+const xs = [-16, -19, -9];
+console.log(JSON.stringify(xs));
+console.log(xs.every(x => x > -50));
+console.log(xs.map((x, i) => x * i).filter(x => x > 0));
+console.log(Math.min(...xs));
+console.log(xs.indexOf(xs[2]));
+console.log(xs.map(x => [x, x % 3]));
+console.log(xs.slice().sort());
+console.log(xs.filter(x => x % 2 === 0));
+const ys = xs.slice(); ys.push(100); ys.pop(); ys.unshift(-1); ys.reverse(); console.log(ys, xs.length);
