@@ -1,0 +1,2 @@
+0,f,2,4,Error:bad 3,f,8,10,12,f,RangeError:range 7,RangeError:range 8
+TypeError/wrapped bad 3
