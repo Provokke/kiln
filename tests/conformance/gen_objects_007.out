@@ -1,0 +1,6 @@
+{ b: 58, a: null }
+{"b":58,"a":null}
+[ 'b', 'a' ]
+3 x 3
+over {"b":"over","a":null,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K7 { v: 1, b: 2 } true

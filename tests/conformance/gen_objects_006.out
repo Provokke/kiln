@@ -1,0 +1,6 @@
+{ b: null, f: 55, a: 10, kind: 47, name: null }
+{"b":null,"f":55,"a":10,"kind":47,"name":null}
+[ 'b', 'f', 'a', 'kind', 'name' ]
+2 x 6
+over {"b":null,"f":55,"a":"over","kind":47,"name":null,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K6 { v: 1, a: 2 } true
