@@ -47,3 +47,4 @@ fn main() {
         println!("{name:<12} {ti:>12.1} {tj:>12.1} {:>7.1}x   [{sj}]", ti / tj);
     }
 }
+
