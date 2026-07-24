@@ -1,0 +1,6 @@
+{ c: '', e: 'gamma' }
+{"c":"","e":"gamma"}
+[ 'c', 'e' ]
+5 x 3
+over {"c":"over","e":"gamma","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K10 { v: 1, c: 2 } true
