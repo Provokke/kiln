@@ -1,0 +1,6 @@
+{ kind: 28, f: 54 }
+{"kind":28,"f":54}
+[ 'kind', 'f' ]
+3 x 3
+over {"kind":28,"f":"over","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K11 { v: 1, f: 2 } true
