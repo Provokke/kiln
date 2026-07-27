@@ -1,0 +1,6 @@
+{ d: 5, value: [ 1, 2 ] }
+{"d":5,"value":[1,2]}
+[ 'd', 'value' ]
+5 x 3
+over {"d":5,"value":"over","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K16 { v: 1, value: 2 } true

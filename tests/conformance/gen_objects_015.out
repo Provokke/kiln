@@ -1,0 +1,6 @@
+{ kind: true, value: null, b: 'x', f: true, e: 78 }
+{"kind":true,"value":null,"b":"x","f":true,"e":78}
+[ 'kind', 'value', 'b', 'f', 'e' ]
+0 x 6
+over {"kind":true,"value":null,"b":"x","f":"over","e":78,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K15 { v: 1, f: 2 } true

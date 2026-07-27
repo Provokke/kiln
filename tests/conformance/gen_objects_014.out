@@ -1,0 +1,6 @@
+{ name: 'kiln', d: true, a: 42, b: [ 1, 2 ] }
+{"name":"kiln","d":true,"a":42,"b":[1,2]}
+[ 'name', 'd', 'a', 'b' ]
+2 x 5
+over {"name":"over","d":true,"a":42,"b":[1,2],"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K14 { v: 1, name: 2 } true
