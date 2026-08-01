@@ -1,0 +1,6 @@
+{ e: [ 1, 2 ], name: null }
+{"e":[1,2],"name":null}
+[ 'e', 'name' ]
+3 x 3
+over {"e":"over","name":null,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K19 { v: 1, e: 2 } true

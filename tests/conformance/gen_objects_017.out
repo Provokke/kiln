@@ -1,0 +1,6 @@
+{ a: 14, id: '', f: 'glaze', d: true }
+{"a":14,"id":"","f":"glaze","d":true}
+[ 'a', 'id', 'f', 'd' ]
+6 x 5
+over {"a":"over","id":"","f":"glaze","d":true,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K17 { v: 1, a: 2 } true

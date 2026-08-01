@@ -1,0 +1,6 @@
+{ b: true, e: null, value: 35, d: 'delta' }
+{"b":true,"e":null,"value":35,"d":"delta"}
+[ 'b', 'e', 'value', 'd' ]
+3 x 5
+over {"b":true,"e":"over","value":35,"d":"delta","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K18 { v: 1, e: 2 } true
