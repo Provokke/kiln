@@ -1,0 +1,6 @@
+{ b: null, e: [ 1, 2 ], kind: null }
+{"b":null,"e":[1,2],"kind":null}
+[ 'b', 'e', 'kind' ]
+2 x 4
+over {"b":"over","e":[1,2],"kind":null,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K24 { v: 1, b: 2 } true

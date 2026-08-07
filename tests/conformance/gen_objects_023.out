@@ -1,0 +1,6 @@
+{ e: 'fire', a: 'x', id: null, c: 'clay', f: null }
+{"e":"fire","a":"x","id":null,"c":"clay","f":null}
+[ 'e', 'a', 'id', 'c', 'f' ]
+4 x 6
+over {"e":"fire","a":"x","id":"over","c":"clay","f":null,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K23 { v: 1, id: 2 } true
