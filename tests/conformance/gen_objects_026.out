@@ -1,0 +1,6 @@
+{ value: 98, b: 'fire', c: 92 }
+{"value":98,"b":"fire","c":92}
+[ 'value', 'b', 'c' ]
+4 x 4
+over {"value":98,"b":"fire","c":"over","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K26 { v: 1, c: 2 } true

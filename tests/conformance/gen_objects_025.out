@@ -1,0 +1,6 @@
+{ c: 98, d: [ 1, 2 ], name: 63, a: 30, b: true }
+{"c":98,"d":[1,2],"name":63,"a":30,"b":true}
+[ 'c', 'd', 'name', 'a', 'b' ]
+4 x 6
+over {"c":98,"d":"over","name":63,"a":30,"b":true,"extra":"x"}
+[ 0, 3, 60, 9, 120 ] K25 { v: 1, d: 2 } true
