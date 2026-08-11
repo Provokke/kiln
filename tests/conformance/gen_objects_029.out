@@ -1,0 +1,6 @@
+{ f: null, id: 27, b: 'beta', d: null, name: 'kiln' }
+{"f":null,"id":27,"b":"beta","d":null,"name":"kiln"}
+[ 'f', 'id', 'b', 'd', 'name' ]
+7 x 6
+over {"f":null,"id":27,"b":"beta","d":"over","name":"kiln","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K29 { v: 1, d: 2 } true

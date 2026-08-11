@@ -1,0 +1,6 @@
+{ a: null, e: null, value: 12, f: 'gamma', c: true }
+{"a":null,"e":null,"value":12,"f":"gamma","c":true}
+[ 'a', 'e', 'value', 'f', 'c' ]
+1 x 6
+over {"a":null,"e":null,"value":12,"f":"gamma","c":"over","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K27 { v: 1, c: 2 } true

@@ -1,0 +1,6 @@
+{ c: 'gamma', name: 'clay', d: 'delta', id: 'kiln' }
+{"c":"gamma","name":"clay","d":"delta","id":"kiln"}
+[ 'c', 'name', 'd', 'id' ]
+7 x 5
+over {"c":"gamma","name":"over","d":"delta","id":"kiln","extra":"x"}
+[ 0, 3, 60, 9, 120 ] K28 { v: 1, name: 2 } true
