@@ -1,0 +1,6 @@
+{ '3': 'three', a: 1, 'b-c': 2, nested: { x: [ 1, 2 ] }, d: 4, e: 5 } 1 2 three 2 undefined
+[ '3', 'a', 'b-c', 'nested', 'd', 'e' ] true false
+{ dyn1: 1, k: 'dyn', s: 1, t: 2 } {"dyn1":1,"k":"dyn","s":1,"t":2}
+x
+y
+[ 1, [ 2 ] ] [ [ 'm', 1 ] ]
